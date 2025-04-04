@@ -67,7 +67,7 @@ const InfoBulletin: React.FC = () => {
             <Button 
               onClick={toggleShowAll} 
               variant="outline" 
-              className="text-black border-white hover:bg-white/10"
+              className="text-black border-white hover:bg-secondary"
             >
               {showAll ? 'Show Less' : 'See All'} 
               <ChevronRight className="ml-2 h-4 w-4" />
