@@ -23,19 +23,19 @@ const testimonials: Testimonial[] = [
   {
     name: "Kashvi Jain",
     message: "E-Cell has been an incredible space where ideas turn into action. It empowers dreamers to become achievers, pushing each other forward and turning visions into reality. Glad to be part of this journey..!!",
-    image: "/lovable-uploads/499b3589-d0d9-48f7-80dd-6ce910174b88.png",
+    image: "/images/Kashvi jain.jpg",
     position: "Former PR Manager, E-Cell"
   },
   {
     name: "Harsh Soni",
     message: "Founding the E-Cell wasn't about starting yet another club, it was about building a launchpad for ideas, innovation, and growth of every member. This community is all about turning big dreams into reality.",
-    image: "/lovable-uploads/499b3589-d0d9-48f7-80dd-6ce910174b88.png",
+    image: "/images/harsh.jpg",
     position: "Former Vice-President, E-Cell"
   },
   {
     name: "Anand Kumar Payasi",
     message: "Having worked with students from various backgrounds, I can say that the E-Cell of SCSIT, DAVV offers a unique platform for growth. The dedication I've seen in the students here has been inspiring.",
-    image: "/lovable-uploads/499b3589-d0d9-48f7-80dd-6ce910174b88.png",
+    image: "/images/Anand Kumar Payasi.jpg",
     position: "Former Mentor, E-Cell"
   },
 ];
