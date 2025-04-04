@@ -25,7 +25,7 @@ const LoadingScreen: React.FC = () => {
     >
       <div className="flex flex-col items-center">
         <motion.img
-          src="/uploads/499b3589-d0d9-48f7-80dd-6ce910174b88.png"
+          src="/images/E-Cell_Logo.jpg"
           alt="E-Cell Logo"
           className="w-32 h-32 mb-4"
           animate={{ scale: [0.9, 1.1, 1] }}
