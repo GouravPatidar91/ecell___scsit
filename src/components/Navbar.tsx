@@ -55,7 +55,7 @@ const Navbar: React.FC = () => {
               className="flex items-center"
             >
               <img 
-                src="/lovable-uploads/499b3589-d0d9-48f7-80dd-6ce910174b88.png"
+                src="/uploads/499b3589-d0d9-48f7-80dd-6ce910174b88.png"
                 alt="E-Cell Logo" 
                 className="h-12 w-auto" 
               />
@@ -69,7 +69,7 @@ const Navbar: React.FC = () => {
               className="flex items-center"
             >
               <img 
-                src="/lovable-uploads/0f47e3fe-e528-4ba8-8eb0-e8ee09167a92.png"
+                src="/uploads/0f47e3fe-e528-4ba8-8eb0-e8ee09167a92.png"
                 alt="SCSIT Logo" 
                 className="h-12 w-auto" 
               />

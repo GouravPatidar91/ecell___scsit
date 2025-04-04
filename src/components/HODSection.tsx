@@ -17,7 +17,7 @@ const HODSection: React.FC = () => {
               <div className="absolute -inset-1 bg-gradient-to-r from-blue-400 to-purple-500 rounded-full opacity-70 blur-sm"></div>
               <div className="relative h-24 w-24 rounded-full overflow-hidden border-4 border-white/80 shadow-xl">
                 <ImageWithFallback
-                  src="/lovable-uploads/18c996a0-29a4-44dd-b049-6893f8b6f568.png"
+                  src="/uploads/18c996a0-29a4-44dd-b049-6893f8b6f568.png"
                   alt="Dr. Ugrasen Suman"
                   className="object-cover w-full h-full"
                 />
